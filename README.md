@@ -24,7 +24,7 @@ How to run with Docker :
 3. cd BMI-Containizer/
 4. docker build -t (yourusername)/bmi .
 5. docker run -it -p 5000:5000 (yourusername/bmi)
-
+```
 Example:
 
 ``` 
