@@ -46,4 +46,4 @@ jobs:
           email: ${{ secrets.HEROKU_EMAIL }} # your heroku email
           api_key: ${{ secrets.HEROKU_API_KEY }} # your heroku api key
           app_name: ${{ secrets.HEROKU_APP_NAME }}
-          dockerfile_path: 'BMI-Containizer/DockerFile'
+          dockerfile_path: ''
